@@ -1,0 +1,14 @@
+README.rst
+setup.cfg
+setup.py
+http2json/__about__.py
+http2json/__init__.py
+http2json/cli.py
+http2json/compat.py
+http2json/core.py
+http2json/utils.py
+http2json.egg-info/PKG-INFO
+http2json.egg-info/SOURCES.txt
+http2json.egg-info/dependency_links.txt
+http2json.egg-info/entry_points.txt
+http2json.egg-info/top_level.txt

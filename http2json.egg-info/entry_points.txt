@@ -1,0 +1,3 @@
+[console_scripts]
+http2json = http2json.cli:main
+

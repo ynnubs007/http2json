@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: http2json
+Version: 1.0.7
+Summary: http2json
+Home-page: https://github.com/ynnubs007/http2json
+Author: ynnubs7
+Author-email: smart@126.com
+License: MIT
+Description: 1.http2json is a tool that chang .har to json
+        
+        2.this tools is benifit for test
+        
+        3.but this tools is a first starter ,that make test much better and easier
+        
+        
+Keywords: har converter json
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

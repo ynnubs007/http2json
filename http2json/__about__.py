@@ -1,0 +1,8 @@
+__title__ = 'http2json'
+__description__ = 'Convert HAR(HTTP Archive) to JSON'
+__url__ = 'https://github.com/ynnubs007/http2json'
+__version__ = '1.0.7'
+__author__ = 'smart'
+__author_email__ = 'smart@126.com'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2019 smart'
